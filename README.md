@@ -10,7 +10,7 @@ The working of the system starts with the collection of data and selecting the i
 This system is implemented using the following modules-
 1. Collection of Dataset 
 2. Selection of attributes 
-3.Data Pre-Processing 
+3. Data Pre-Processing 
 4. Balancing of Data 
 5. Disease Prediction
 
